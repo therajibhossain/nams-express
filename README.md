@@ -117,10 +117,13 @@ Port : 33061
 ```
 
 ## Screenshots
+<img src="resources/screenshots/website-home.png">
 <img src="resources/screenshots/login.png">
 <img src="resources/screenshots/admin-dashboard.png">
 <img src="resources/screenshots/manager-dashboard.png">
 <img src="resources/screenshots/staff-dashboard.png">
+<img src="resources/screenshots/shipping-cost.png">
+
 
 That's all Folks. Enjoy.
 "# nams-express" 
