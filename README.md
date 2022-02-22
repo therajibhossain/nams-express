@@ -12,7 +12,7 @@
 ## Cloning
 ```
 git clone https://github.com/therajibhossain/nams-express.git
-cd courierman
+cd nams-express
 ```
 
 ## Set Environment Variables
