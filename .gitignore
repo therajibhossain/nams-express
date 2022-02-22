@@ -25,5 +25,5 @@ Homestead.json
 
 public/js
 public/css
-public/assets/*
+# public/assets/*
 public/mix*

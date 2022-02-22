@@ -11,7 +11,7 @@
 
 ## Cloning
 ```
-git clone https://github.com/webgeeks-in/courierman.git
+git clone https://github.com/therajibhossain/nams-express.git
 cd courierman
 ```
 
@@ -22,7 +22,7 @@ cp .env.example .env
 # Update following variables in .env
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=courierman
+DB_DATABASE=namsexpress
 DB_USERNAME=root
 DB_PASSWORD=
 ```
